@@ -20,7 +20,7 @@ console.log("Si quieres dividir escribe \"/\" o \"dividir\" ")
 console.log("")
 
 // and this is a simple ask
-console.log("Y dime, que hacemos?")
+console.log("Y dime, que hacemos? ")
 
 //while the operator is diffrent than the correct other operators, the program will ask again and advice that the operator is not correct.
 while (!operadoresValidos.includes(operador)) {
